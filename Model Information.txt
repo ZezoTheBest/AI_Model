@@ -1,0 +1,36 @@
+
+24 questions answered with 1 (yes) or 0 (no):
+1. Nervous
+2. Panic
+3. Rapid Breathing
+4. Sweating
+5. Concentration Troubles
+6. Insomnia
+7. Work Troubles
+8. Hopelessness
+9. Anger
+10.Overreacting
+11.Change in Eating
+12.Suicidal Thoughts
+13.Unenergetic
+14.Have close friends or relatives
+15.Social Media Addiction
+16.Weight Gain 
+17.Searching to buy materialistic possesions to compare yourself to others
+18.Introvert
+19.Popping Traumatic Memory
+20.Nightmares
+21.Avoiding People And Activities
+22.Negative and Pessimistic
+23.General Trouble in Concentration
+24.Blaming Yourself/ Feeling Guilty
+
+==================================================================================
+
+Model Prediction:
+The index with the highest value from the model output:
+0 = Anxiety
+1 = Depression
+2 = Loneliness
+3 = Normal
+4 = Stress

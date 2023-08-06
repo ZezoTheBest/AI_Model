@@ -1,7 +1,6 @@
 from config import TOKEN
 import disnake as discord
 from disnake.ext import commands
-from config import TOKEN
 import tensorflow as tf
 from tensorflow import keras
 import numpy as np
